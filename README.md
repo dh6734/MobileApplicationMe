@@ -13,7 +13,7 @@ This project is a Java-based mobile application that includes services for manag
 ## Reflections on My Projects
 1. How can I ensure that my code, program, or software is functional and secure?
 
-Ensuring that my code is functional and secure involves several best practices. Firstly, I use comprehensive testing strategies, including unit tests, integration tests, and automated tests, to verify that my software works as expected across different scenarios. For example, in my recent projects, I employed automated test suites to continuously validate code changes and identify issues early. Additionally, I follow secure coding practices to protect against vulnerabilities. This includes input validation, proper error handling, and using security libraries and frameworks to mitigate risks such as SQL injection and cross-site scripting (XSS). Regular code reviews and security audits also help identify potential weaknesses and ensure adherence to security standards.
+Ensuring that my Java code is both functional and secure involves a multi-faceted approach. I start by implementing comprehensive testing strategies, which include unit tests, integration tests, and automated tests. For instance, I use JUnit for unit testing, which helps verify that individual components of my code work as expected. Integration tests ensure that different parts of the application interact correctly, while automated tests, facilitated by tools like Jenkins, help continuously validate code changes and identify issues early in the development cycle.
 
 2. How do I interpret user needs and incorporate them into a program?
 
